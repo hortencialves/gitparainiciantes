@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T14:49:35.187Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zlKVlZwbcXJxAYvbbMV2" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-24T14:51:28.626Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="INA6uqcYDOFiU35BMfDb" version="14.2.7" type="github">
   <diagram id="swEk1JvPso3YXf_ZzWyq" name="Page-1">
     <mxGraphModel dx="2088" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,8 +145,8 @@
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-63" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-780" y="45" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-64" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;h1&gt;&lt;span style=&quot;font-family: &amp;#34;nunito&amp;#34; , , , , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;TEMPLATE - Campanha 1&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="60" width="200" height="45" as="geometry" />
+        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-64" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;h1&gt;&lt;span style=&quot;font-family: &amp;#34;nunito&amp;#34; , , , , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;TEMPLATE - Campanha 1&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;nunito&amp;#34; , , , , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;Target: Customer, lead e lending&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="47.5" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-68" value="Interaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-350" y="357.5" width="40" height="20" as="geometry" />
