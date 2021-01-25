@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T11:37:30.491Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="aD7wSFfyfuqup7Q1Z7LL" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T13:51:21.879Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PFjbY20shcQ7mdHgaCZt" version="14.2.7" type="github">
   <diagram id="swEk1JvPso3YXf_ZzWyq" name="Page-1">
-    <mxGraphModel dx="2178" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2778" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,35 +109,14 @@
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-49" value="&lt;ul&gt;&lt;li&gt;Experiência até o momento&amp;nbsp;&lt;/li&gt;&lt;li&gt;Solución de possibles dudas&lt;/li&gt;&lt;li&gt;Check Conversion 1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="715" y="377.5" width="275" height="102.5" as="geometry" />
         </mxCell>
-        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-50" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(109, 109, 112); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Aparecida caras&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="57.5" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-52" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="1">
           <mxGeometry x="1010" y="107.5" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-53" value="Cida Luz" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="47.5" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-54" value="Stefani Liz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="17.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-55" value="ADELAIDA SOLANO LUQUE" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="227.5" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-56" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="1">
           <mxGeometry x="1000" y="377.5" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-57" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(109, 109, 112); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;JONATHAN LOPEZ MALDONADO&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="327.5" width="280" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-58" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="1">
           <mxGeometry x="1010" y="237.5" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-59" value="VALENTINA PAZOS VAQUERO" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="357.5" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EPW-HaQHBfj0v5BsG1Gk-60" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(109, 109, 112); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;GERMAN GONZALEZ COBO&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="477.5" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-61" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="1">
           <mxGeometry x="990" y="513.5" width="100" height="80" as="geometry" />
@@ -170,7 +149,7 @@
           <mxGeometry x="-650" y="297.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-110" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;h1 class=&quot;mb-3 text-90 font-normal text-2xl&quot; style=&quot;box-sizing: inherit; border-width: 0px; border-style: solid; font-size: 1.5rem; margin: 0px 0px 0.75rem; letter-spacing: 0.25rem; text-transform: uppercase; font-weight: 400; color: rgb(109, 109, 112); font-style: normal; text-indent: 0px; word-spacing: 0px; background-color: rgb(243, 243, 243);&quot;&gt;GUIDELINES TEMPLATE&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-40" width="200" height="40" as="geometry" />
+          <mxGeometry x="490" y="-32.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EPW-HaQHBfj0v5BsG1Gk-111" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;h1 class=&quot;mb-3 text-90 font-normal text-2xl&quot; style=&quot;box-sizing: inherit; border-width: 0px; border-style: solid; font-size: 1.5rem; margin: 0px 0px 0.75rem; letter-spacing: 0.25rem; text-transform: uppercase; font-weight: 400; color: rgb(109, 109, 112); font-style: normal; text-indent: 0px; word-spacing: 0px; background-color: rgb(243, 243, 243);&quot;&gt;GUIDELINES TEMPLATE&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="227.5" width="380" height="40" as="geometry" />
