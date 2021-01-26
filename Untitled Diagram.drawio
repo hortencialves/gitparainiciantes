@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T11:37:38.373Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MQmRL1u8bUdR63d7Yhno" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T15:10:10.074Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xPPnnA-sd23lVW2kXBQ5" version="14.2.7" type="github">
   <diagram id="UCJlPTCPI7tPTAEzfjQQ" name="Page-1">
-    <mxGraphModel dx="1773" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,6 +65,9 @@
         </mxCell>
         <mxCell id="cNnYPTo-vGHw6Wwi2OEQ-42" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;(leads)Interactions - Teste 2Segmentação&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-595" y="395" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNnYPTo-vGHw6Wwi2OEQ-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="840" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
